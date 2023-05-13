@@ -9,6 +9,11 @@
     border-radius: 15px;
     padding: 10px;
 }
+.user{
+    border: 1px solid purple;
+    border-radius: 15px;
+    padding: 10px;
+}
 
 .btn{
     background-color: black;
