@@ -1,0 +1,17 @@
+.user-info-container{
+    border: 1px solid chocolate;
+    border-radius: 15px;
+    padding: 15px;
+}
+
+.user-info{
+    border: 1px solid green;
+    border-radius: 15px;
+    padding: 10px;
+}
+
+.btn{
+    background-color: black;
+    margin-left: 10px;
+    color: white;
+}
